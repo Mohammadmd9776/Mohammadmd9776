@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Mohammadmd9776
-- 👀 I’m interested in Reactjs
-- 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on Angular projects
+- 👀 I’m interested in Reactjs|Nextjs
+- 💞️ I’m looking to collaborate on React projects
 - 📫 How to reach me Mohammadmd9776@gmail.com
 
 <!---
